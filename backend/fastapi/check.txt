@@ -1,0 +1,5 @@
+1=Hello! How can I assist you today?
+2=I'm just a program, but thanks for asking!
+3=Goodbye! Have a great day.
+4=How can I help you? Please specify your query.
+5=System status is all good!

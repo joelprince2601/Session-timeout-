@@ -1,0 +1,4 @@
+com\example\websocket\PayloadController.class
+com\example\websocket\Application.class
+com\example\websocket\JwtUtil.class
+com\example\websocket\WebConfig.class
